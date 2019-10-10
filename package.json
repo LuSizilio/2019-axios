@@ -1,0 +1,22 @@
+{
+  "name": "2019-axios",
+  "version": "1.0.0",
+  "description": "#DCL edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuSizilio/2019-axios.git"
+  },
+  "author": "Luciano Sizilio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuSizilio/2019-axios/issues"
+  },
+  "homepage": "https://github.com/LuSizilio/2019-axios#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
